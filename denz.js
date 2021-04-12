@@ -63,27 +63,22 @@ const { wait, simih, getBuffer, h2k, generateMessageID, getGroupAdmins, getRando
 
 const vcard = 'BEGIN:VCARD\n'
             + 'VERSION:3.0\n'
-            + 'FN:Fajar Alfarizi\n'
-            + 'ORG:Owner 𝙼𝚎𝚐𝚞𝚖𝚒𝚗 𝙱𝙾𝚃;\n'
-            + 'TEL;type=CELL;type=VOICE;waid=6281333782061:+62 813-3378-2061\n'
+            + 'FN:Andi\n'
+            + 'ORG:Owner Sherlock 𝙱𝙾𝚃;\n'
+            + 'TEL;type=CELL;type=VOICE;waid=6282292119677:+62 822-9211-9677\n'
             + 'END:VCARD'
        
-const vcard1 = 'BEGIN:VCARD\n'
-            + 'VERSION:3.0\n'
-            + 'FN:Debby Cans\n'
-            + 'ORG:Co Owner 𝙼𝚎𝚐𝚞𝚖𝚒𝚗 𝙱𝙾𝚃;\n'
-            + 'TEL;type=CELL;type=VOICE;waid=6285277188863:+62 852-7718-8863\n'
-            + 'END:VCARD'
+
 
 prefix = "!"
-name = "𝙼𝚎𝚐𝚞𝚖𝚒𝚗 𝙱𝙾𝚃"
+name = "Sherlock 𝙱𝙾𝚃"
 rdaftar = "TERIMA KASIH TELAH DAFTAR MENJADI TEMEN 𝙼𝚎𝚐𝚞𝚖𝚒𝚗 𝙱𝙾𝚃 😁"
-rmenu = "HAI TEMEN 𝙼𝚎𝚐𝚞𝚖𝚒𝚗 𝙱𝙾𝚃 👋🏻 JANGAN LUPA DONASI YAA:)"
+rmenu = "HAI TEMEN Sherlock 𝙱𝙾𝚃 👋🏻 JANGAN LUPA DONASI YAA:)"
 botinfo = "UNTUK INVITE BOT SILAHKAN DONASI DULU YAA:)"
 limitt = 999999999
 memberLimit = 2
 ban = []
-premium = ["6281333782061@s.whatsapp.net","6285277188863@s.whatsapp.net"]
+premium = ["6282292119677@s.whatsapp.net"]
 
 function kyun(seconds){
   function pad(s){
