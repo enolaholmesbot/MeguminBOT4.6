@@ -76,7 +76,7 @@ const vcard1 = 'BEGIN:VCARD\n'
             + 'END:VCARD'
 
 prefix = "!"
-name = "𝙼𝚎𝚐𝚞𝚖𝚒𝚗 𝙱𝙾𝚃"
+name = "𝙼𝚎𝚐𝚞𝚖𝚒𝚗 𝙱0𝚃"
 rdaftar = "TERIMA KASIH TELAH DAFTAR MENJADI TEMEN 𝙼𝚎𝚐𝚞𝚖𝚒𝚗 𝙱𝙾𝚃 😁"
 rmenu = "HAI TEMEN 𝙼𝚎𝚐𝚞𝚖𝚒𝚗 𝙱𝙾𝚃 👋🏻 JANGAN LUPA DONASI YAA:)"
 botinfo = "UNTUK INVITE BOT SILAHKAN DONASI DULU YAA:)"
